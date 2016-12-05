@@ -1,0 +1,24 @@
+{
+  "name": "nick-advent-of-code",
+  "description": "Nick's Solutions to Advent of Code",
+  "version": "0.0.1",
+  "author": {
+    "name": "Nick Burwell",
+    "url": "http://www.nickburwell.com"
+  },
+  "dependencies": {
+    "blueimp-md5": "^2.6.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=6"
+  },
+  "license": "MIT",
+  "homepage": "http://adventofcode.com",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nburwell/adventofcode"
+  },
+  "scripts": {}
+}
