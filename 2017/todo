@@ -1,6 +1,0 @@
-* handle small tile size (wrap? move to inside tile body?)
-* share select2 component (and parameterize tweaks)
-X untangle campaign full name on api endpoint
-* tests for new component
-* remove name from call count component
-* handle filter existing object (set state)
